@@ -12947,11 +12947,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matt\\source\\repos\\Blog\\Blog\\Blog.csproj",
+      "projectUniqueName": "C:\\Users\\Matt\\source\\repos\\Blog\\Blog.csproj",
       "projectName": "Blog",
-      "projectPath": "C:\\Users\\Matt\\source\\repos\\Blog\\Blog\\Blog.csproj",
+      "projectPath": "C:\\Users\\Matt\\source\\repos\\Blog\\Blog.csproj",
       "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matt\\source\\repos\\Blog\\Blog\\obj\\",
+      "outputPath": "C:\\Users\\Matt\\source\\repos\\Blog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
